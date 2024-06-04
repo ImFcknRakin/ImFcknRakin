@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @ImFcknRakin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ImFcknRakin/ImFcknRakin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                                                 
+                )                                
+ (        )  ( /(   (             (  (           
+ )\ )  ( /(  )\()) ))\ (   `  )   )\))(    (     
+(()/(  )(_))(_))/ /((_))\  /(/(  ((_)()\   )\ )  
+ )(_))((_)_ | |_ (_)) ((_)((_)_\ _(()((_) _(_/(  
+| || |/ _` ||  _|/ -_)(_-<| '_ \)\ V  V /| ' \)) 
+ \_, |\__,_| \__|\___|/__/| .__/  \_/\_/ |_||_|  
+ |__/                     |_|                    
